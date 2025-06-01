@@ -8,6 +8,4 @@
 > [Prototype]()
 
 >**Factory:**
-> [Factory method]()
-
-> [Factory class]()
+> [Factory method]()   [Factory class]()
