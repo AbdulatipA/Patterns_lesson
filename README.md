@@ -5,4 +5,6 @@
 
 >**Prototype:** [Prototype]()
 
->**Factory:** [Factory method]()   [Factory class]()
+>**Factory:**
+[Factory method](https://github.com/AbdulatipA/Patterns_lesson/tree/master/src/main/java/org/example/patterns_lesson/patterns/factoryMethod)
+[Factory class](https://github.com/AbdulatipA/Patterns_lesson/tree/master/src/main/java/org/example/patterns_lesson/patterns/factoryClass)
