@@ -7,5 +7,4 @@
 **Prototype:**
 > [Prototype]()
 
->**Factory:**
-> [Factory method]()   [Factory class]()
+>**Factory:** [Factory method]()   [Factory class]()
