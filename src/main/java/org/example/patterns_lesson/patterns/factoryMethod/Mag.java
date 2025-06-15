@@ -6,3 +6,4 @@ public class Mag implements Character{
         System.out.println("Атакует волшебкой палочкой");
     }
 }
+ 
